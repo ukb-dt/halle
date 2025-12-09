@@ -17,7 +17,19 @@
 </script>
 {% endraw %}
 
+<picture>
+  <!-- Mobile-optimized version (optional; remove if you only have one file) -->
+  <source srcset="global/maxima.jpg" media="(max-width: 600px)">
+  <!-- Desktop -->
+  <img 
+    src="global/maxima.jpg" 
+    alt="global maxima" 
+    style="width:100%; height:auto; display:block; border-radius:12px;"
+  >
+</picture>
+
 # [Reinvention](https://ukb-dt.github.io/maga-00/), Late Style, and Cultural Vectors Around Handel’s Pivot
+
 
 | Vector / Theme                   | Handel (1737–1742 pivot)                                                                                                                                   | [Bach](https://ukb-dt.github.io/ntu/) (Late Style)                                                                                                                 | Beethoven (Late Period)                                                                             | London’s 18th-c. Social Structure                                                                                          | Why “Messiah” Has No Bach Equivalent                                                                                                                                       |
 | -------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
