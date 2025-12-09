@@ -73,7 +73,7 @@ It’s not about relative greatness—Bach is arguably the most advanced musical
 
 Put Bach in a Black Pentecostal church with a Hammond B3 and he would absolutely *drink the room dry*. His rhythmic, harmonic, and contrapuntal vocabulary is infinitely adaptable.
 
-Handel, though—Handel owned the theater of the human crowd. That’s why Messiah, not the B-minor Mass, became the first truly mass-mobilizing sacred artwork of modernity.
+Handel, though—Handel owned the theater of the [human crowd](https://ukb-dt.github.io/handel/). That’s why Messiah, not the B-minor Mass, became the first truly mass-mobilizing sacred artwork of modernity.
 
 ---
 
