@@ -65,7 +65,7 @@ Because the *container* of Bach’s creativity was different:
 * His work was **functional** within Lutheran liturgy, even when sublime.
 * He never faced the entrepreneurial pressure that forced Handel to innovate.
 * Bach’s genius is *vertical* (depth), Handel’s is *horizontal* (breadth + society).
-* Messiah’s universality required a public platform that Bach never accessed.
+* Messiah’s [universality](https://en.wikipedia.org/wiki/Maximum_and_minimum) required a public platform that Bach never accessed.
 
 It’s not about relative greatness—Bach is arguably the most advanced musical intellect the West produced—but Bach never *needed* to write a Messiah. His world lacked the institutional void that Messiah fills: **a public religious drama outside the church, in a commercial city, for a morally anxious audience.**
 
